@@ -10,7 +10,7 @@ Scaling: Sharding
 ![alt text](MongoDBArchitecture-01.png)
 ![alt text](MongoDBArchitecture-02-OrganizingData.png)
 ![alt text](MongoDBArchitecture-03-Document.png)
-![MongoDB Collections](MongoDBArchitecture-04-Collections.png)
+![alt text](MongoDBArchitecture-04-Collections.png)
 ![alt text](MongoDBArchitecture-05-DataBase.png)
 ![alt text](MongoDBArchitecture-06-Node.png)
 ![alt text](MongoDBArchitecture-07-ClusterTypes-00.png)
